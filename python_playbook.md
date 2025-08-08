@@ -53,11 +53,10 @@
 
 ### References:
 
--Python Documentation
--Real Python
--Flask
--Poetry
+- Python Documentation
+- Real Python
+- Flask
+- Poetry
 
-Credits : Keerthana / Chennai Chapter
 
 Credits : Keerthana / Chennai Chapter
